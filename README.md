@@ -1,2 +1,12 @@
-## Expresiones Landba 
-* Codigo de pruebas
+## Expresiones Landba  
+
+## Contexto 
+
+- Utilizacion de  las "Expresiones landba"
+- Codigo de prueba.
+
+## Temas tocados 
+- Consumer 
+- Biconsumer
+
+* Osman johandry.
