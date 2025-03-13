@@ -12,6 +12,8 @@ public class Main {
         personas.add(new Persona("Ana", 23));
         personas.add(new Persona("Jose", 30));
         personas.add(new Persona("Maria", 20));
+        
+
         // Usar un Comparator con expresión lambda para ordenar por edad
         Comparator<Persona> porEdad = (p1, p2) -> Integer.compare(p1.getEdad(),
                 p2.getEdad());
