@@ -8,5 +8,5 @@
 ## Temas tocados 
 - Consumer 
 - Biconsumer
+- Supplier
 
-* Osman johandry.
